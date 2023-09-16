@@ -46,7 +46,7 @@ environment {
 }
     }
   }
-         stage("Jar Publish") {
+         stage("pubish jar to Jfrog artifacts") {
         steps {
             script {
                     echo '<--------------- Jar Publish Started --------------->'
