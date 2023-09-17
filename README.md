@@ -31,6 +31,8 @@ It also contains pom.xml which has all dependences and artifact name and version
 #  DevOps Project using Terraform, Jenkins, SonarQube, Jfrog Artifactory, Ansible, Docker, Kubernetes, Helm, Prometheus and Grafana
 # Architecture
 ![devops4](https://github.com/Sanjo-varghese/DevOps-tweet/assets/116708794/39b7bdbd-129c-4597-8ef0-28e8b7fc4024)
+# Jenkins_pipeline
+![va](https://github.com/Sanjo-varghese/DevOps-tweet/assets/116708794/2b795074-1216-4824-a871-15a91015a2e2)
 
 # Thanks 
 # www.sanjovarghese.in
