@@ -84,7 +84,7 @@ environment {
       }
     }
 
-            stage (" Docker Publish to jfrog docker hub repo "){
+            stage (" Docker Publish to jfrog docker repo "){
         steps {
             script {
                echo '<--------------- Docker Publish Started --------------->'  
