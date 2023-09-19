@@ -1,4 +1,4 @@
-def registry = 'https://sanjo.jfrog.io'
+def registry = 'https://sanjo1998.jfrog.io'
 def imageName = 'sanjo.jfrog.io/sanjo-docker/tweet-msg'
 def version   = '2.1.2'
 pipeline {
