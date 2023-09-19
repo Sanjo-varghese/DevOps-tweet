@@ -1,5 +1,5 @@
 def registry = 'https://sanjo.jfrog.io'
-def imageName = 'sanjo.jfrog.io/sanjo-docker/tweet-msg'
+def imageName = 'sanjo.jfrog.io/sanjo-docker/tweet-mg'
 def version   = '2.1.2'
 pipeline {
     agent {
