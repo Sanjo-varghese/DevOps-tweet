@@ -96,7 +96,7 @@ environment {
         }
     }   
 
- stage ("deploy"){
+ stage ("deploy k8s"){
      steps {
          script {
              sh './deploy.sh'
