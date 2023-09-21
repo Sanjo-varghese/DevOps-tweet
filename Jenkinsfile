@@ -96,7 +96,7 @@ environment {
         }
     }   
 
- stage ('Update') {
+ stage ('Update'){
     try {
         dir('/home/ubuntu/kubernetes') {
             sh 'ls -l'
@@ -105,4 +105,4 @@ environment {
   }
   }
 }
-}
+ 
