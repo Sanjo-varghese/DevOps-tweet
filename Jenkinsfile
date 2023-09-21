@@ -100,7 +100,7 @@ stage(" Helm k8s ") {
        steps {
          script {
             echo '<--------------- Helm Deploy Started --------------->'
-            sh 'helm install ttrend tweet-msg-0.1.0.tgz'
+             sh 'helm install tweet-msg tweet-msg-0.1.0.tgz
             echo '<--------------- Helm deploy Ends --------------->'
          }
        }
