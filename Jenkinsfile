@@ -95,12 +95,11 @@ environment {
             }
         }
     }   
-
-stage(" Helm k8s ") {
+stage(" Deploy Helm k8 ") {
        steps {
          script {
             echo '<--------------- Helm Deploy Started --------------->'
-             sh 'helm install tweet-msg tweet-msg-0.1.0.tgz
+            sh 'helm install tweet-msg tweet-msg-0.1.0.tgz'
             echo '<--------------- Helm deploy Ends --------------->'
          }
        }
