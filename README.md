@@ -32,7 +32,12 @@ It also contains pom.xml which has all dependences and artifact name and version
 # Architecture
 ![devops4](https://github.com/Sanjo-varghese/DevOps-tweet/assets/116708794/39b7bdbd-129c-4597-8ef0-28e8b7fc4024)
 # Jenkins_pipeline
-![va](https://github.com/Sanjo-varghese/DevOps-tweet/assets/116708794/2b795074-1216-4824-a871-15a91015a2e2)
+![helm](https://github.com/Sanjo-varghese/DevOps-tweet/assets/116708794/6c804544-4324-408c-8d7e-d6373f693dc1)
+
+# Mointoring: Prometheus | Grafana 
+![proth](https://github.com/Sanjo-varghese/DevOps-tweet/assets/116708794/6b71578f-74ba-4c64-acff-1f44f612da4c)
+![grafana](https://github.com/Sanjo-varghese/DevOps-tweet/assets/116708794/deeb16c8-c3c8-4da3-96b2-b54e821207c9)
+
 
 # Thanks 
 # www.sanjovarghese.in
