@@ -96,13 +96,13 @@ environment {
         }
     }   
 
- stage ("deploy k8s"){
-     steps {
-         script {
-             sh './deploy.sh'
-         }
-    
-    }
-}
+ stage ('Update') {
+    try {
+        dir('/home/ubuntu/kubernetes') {
+            sh 'ls -l'
+            sh 'deploy.sh'
+        }
+  }
+  }
 }
 }
